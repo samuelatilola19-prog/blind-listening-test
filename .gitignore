@@ -1,0 +1,8 @@
+venv/
+listening-test/
+versions/
+output/
+key.json
+__pycache__/
+*.pyc
+.DS_Store
